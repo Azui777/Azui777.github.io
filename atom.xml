@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://azui.me</id>
+    <id>http://azui.me</id>
     <title>EricChen</title>
-    <updated>2020-06-29T11:15:42.606Z</updated>
+    <updated>2020-06-29T11:25:42.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://azui.me"/>
-    <link rel="self" href="https://azui.me/atom.xml"/>
+    <link rel="alternate" href="http://azui.me"/>
+    <link rel="self" href="http://azui.me/atom.xml"/>
     <subtitle>🇨🇳 China Guangzhou ・ 🕹Web developer</subtitle>
-    <logo>https://azui.me/images/avatar.png</logo>
-    <icon>https://azui.me/favicon.ico</icon>
+    <logo>http://azui.me/images/avatar.png</logo>
+    <icon>http://azui.me/favicon.ico</icon>
     <rights>All rights reserved 2020, EricChen</rights>
 </feed>
